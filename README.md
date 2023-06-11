@@ -1,6 +1,7 @@
 # Literarium —— *Where Books Come Alive.*
 
-###    					<img src="/Assets/Logo3.png" alt="Logo3" style="zoom: 33%;" /> 
+###<div style="text-align: center;"><img src="/Assets/Logo3.png" alt="Logo3" style="zoom: 33%;" /></div>
+
 
 This is the repository for Clarissa Audrey Fabiola's Object-Oriented Programming final project.
 
