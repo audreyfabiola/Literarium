@@ -2,7 +2,7 @@
 
 ###    					<img src="/Assets/Logo3.png" alt="Logo3" style="zoom: 33%;" /> 
 
-This is the repository for Clarissa Audrey Fabiola's Object-oriented Programming final project.
+This is the repository for Clarissa Audrey Fabiola's Object-Oriented Programming final project.
 
 #### Introduction
 
