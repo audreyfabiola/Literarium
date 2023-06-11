@@ -1,4 +1,4 @@
-# Literarium —— *Where Books Come Alive.*
+<h1 align="center">Literarium —— *Where Books Come Alive.*</h1> 
 
 ### <div align="center"><img src="/Assets/Logo3.png" alt="Logo3" width="500"/></div>
 
