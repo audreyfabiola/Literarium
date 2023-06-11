@@ -10,7 +10,7 @@ Literarium is a Java Swing-based desktop application designed to simulate a digi
 
 [![Video](https://img.shields.io/badge/Demonstration-Watch-red?logo=youtube)](https://www.example.com/video-link)
 [![Report](https://img.shields.io/badge/Report-Read-blue?logo=microsoft-word)](https://www.example.com/report-link)
-[![UML Diagram](https://img.shields.io/badge/UML%20Diagram-View-blue?logo=diagramsdotnet)](https://lucid.app/lucidchart/a091bd42-6552-483c-af3a-cf22ceadb0b5/edit?viewport_loc=50%2C1686%2C3456%2C1665%2CHWEp-vi-RSFO&invitationId=inv_9727fe98-da10-472b-ad23-1ef532bcae0c)
+[![UML Diagram](https://img.shields.io/badge/UML%20Diagram-View-beige?logo=diagramsdotnet)](https://lucid.app/lucidchart/a091bd42-6552-483c-af3a-cf22ceadb0b5/edit?viewport_loc=50%2C1686%2C3456%2C1665%2CHWEp-vi-RSFO&invitationId=inv_9727fe98-da10-472b-ad23-1ef532bcae0c)
 
 ### 📁 File Directory
 
