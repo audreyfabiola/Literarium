@@ -12,7 +12,7 @@ Literarium is a Java Swing-based desktop application designed to simulate a digi
 [![Report](https://img.shields.io/badge/Report-Read-blue?logo=microsoft-word)](https://www.example.com/report-link)
 [![UML Diagram](https://img.shields.io/badge/UML%20Diagram-View-orange?logo=diagramsdotnet)](https://lucid.app/lucidchart/a091bd42-6552-483c-af3a-cf22ceadb0b5/edit?viewport_loc=50%2C1686%2C3456%2C1665%2CHWEp-vi-RSFO&invitationId=inv_9727fe98-da10-472b-ad23-1ef532bcae0c)
 
-### 📁 File Directory
+### 📁 File Directories
 
 - 'Start.java': The start class serves as the entry point of the application and initializes the necessary components for the bookstore management system.
 - 'Login.java': The login class handles the user authentication process, allowing authorized users to access the system.
