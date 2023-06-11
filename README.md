@@ -8,13 +8,9 @@ This is the repository for Clarissa Audrey Fabiola's Object-Oriented Programming
 
 Literarium is a Java Swing-based desktop application designed to simulate a digital bookstore. It provides a user-friendly graphical interface and supports two roles: Admin and Customer. The Admin role enables book inventory and customer inventory management, while the Customer role allows users to browse books, add them to their bill, and generate it.
 
-
-
 #### 🎥 Demo Video
 
 Video demonstration can be accessed .... 
-
-
 
 #### 📁 File Directory
 
@@ -27,9 +23,7 @@ Video demonstration can be accessed ....
 - 'Admin.java': The Admin class provides administrative functionalities for the bookstore management system, such as customer and book inventory.
 - 'customer.txt': This file contains information about customers in a bookstore. It stores data such as customer IDs, names, passwords, and gender.
 - 'book.txt': This file contains information about boooks in the bookstore. It stores data such as book IDs, titles, quantities, prices, and authors.
-- 'Book' folder: This folder contains book cover images in JPG format and their corresponding synopsis in TXT files.
-
-
+- 'Books' folder: This folder contains book cover images in JPG format and their corresponding synopsis in TXT files.
 
 #### 📚 Dependencies
 
@@ -38,21 +32,15 @@ Video demonstration can be accessed ....
 - java.io: A library for performing input and output operations in Java. It is used in the project for reading and writing files.
 - java.nio.file: A library for performing file-related operations in Java. It is used in the project for copying files with the option to replace existing files.
 
-
-
 #### Clone Locally
 
 ```
 $ git clone https://github.com/audreyfabiola/Literarium
 ```
 
-
-
 #### UML Class Diagram of the Program
 
 ![UMLClassDiagram](/Assets/UMLClassDiagram.png)
-
-
 
 #### 📷 Screenshots of the Program
 
@@ -60,15 +48,11 @@ Login Page
 
 ![loginScreenshot](/Assets/loginScreenshot.png)
 
-
-
 Admin Page (Book and Customer Management)
 
 ![bookManagementScreenshot](/Assets/bookManagementScreenshot.png)
 
 ![customerManagementScreenshot](/Assets/customerManagementScreenshot.png)
-
-
 
 Customer Page (Store)
 
