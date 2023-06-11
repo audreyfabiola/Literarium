@@ -137,7 +137,7 @@ public class Start extends javax.swing.JFrame {
 
         try {
             for (int i = 0; i <= 100; i++) {
-                Thread.sleep(2);
+                Thread.sleep(50);
                 splashScreen.progressBar.setValue(i);
                 splashScreen.percentage.setText(Integer.toString(i) + "%");
                 
