@@ -32,13 +32,13 @@ Literarium is a Java Swing-based desktop application designed to simulate a digi
 - java.io: A library for performing input and output operations in Java. It is used in the project for reading and writing files.
 - java.nio.file: A library for performing file-related operations in Java. It is used in the project for copying files with the option to replace existing files.
 
-### Clone Locally
+### 👯 Clone Locally
 
 ```
 $ git clone https://github.com/audreyfabiola/Literarium
 ```
 
-### UML Class Diagram of the Program
+### 🖋️ UML Class Diagram of the Program
 
 ![UMLClassDiagram](/Assets/UMLClassDiagram.png)
 
