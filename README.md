@@ -7,8 +7,10 @@ This is the repository for Clarissa Audrey Fabiola's Object-Oriented Programming
 #### ✎𓂃Introduction。°˖⌕
 
 Literarium is a Java Swing-based desktop application designed to simulate a digital bookstore. It provides a user-friendly graphical interface and supports two roles: Admin and Customer. The Admin role enables book inventory and customer inventory management, while the Customer role allows users to browse books, add them to their bill, and generate it.
-[![Video](https://img.shields.io/badge/Video-Watch-red)](https://www.example.com/video-link)
 
+[![Video](https://img.shields.io/badge/demonstration-Watch-red)](https://www.example.com/video-link)
+[![Report](https://img.shields.io/badge/Report-Read-blue?logo=word)](https://www.example.com/report-link)
+[![UML Diagram](https://img.shields.io/badge/UML%20Diagram-View-lightgrey?logo=uml)](https://www.example.com/diagram-link)
 
 #### 🎥 Demo Video
 
