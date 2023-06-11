@@ -1,4 +1,4 @@
-<h1 align="center">⋆｡ﾟ☁︎｡⋆Literarium —— <em>Where Books Come Alive</em>.｡ ﾟ☾ ﾟ｡⋆</h1>
+<h1 align="center">｡ﾟ☁︎｡⋆Literarium —— <em>Where Books Come Alive</em>.｡ ﾟ☾ ﾟ｡</h1>
 
 ### <div align="center"><img src="/Assets/Logo3.png" alt="Logo3" width="500"/></div>
 
