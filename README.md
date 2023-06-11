@@ -1,4 +1,4 @@
-###  **Literarium —— Where Books Come Alive.**<img src="/Users/clarissaaudrey/Documents/Literarium/Assets/Logo3.png" alt="Logo3" style="zoom: 25%;" />
+###  **Literarium —— Where Books Come Alive.**<img src="/Assets/Logo3.png" alt="Logo3" style="zoom: 25%;" />
 
 This is the repository for Clarissa Audrey Fabiola's Object-oriented Programming final project.
 
@@ -47,7 +47,7 @@ $ git clone https://github.com/audreyfabiola/Literarium
 
 #### UML Class Diagram of the Program
 
-![UML Class Diagram](/Users/clarissaaudrey/Documents/Literarium/Assets/UML Class Diagram.png)
+![UML Class Diagram](/Assets/UML Class Diagram.png)
 
 
 
@@ -55,18 +55,18 @@ $ git clone https://github.com/audreyfabiola/Literarium
 
 Login Page
 
-![loginScreenshot](/Users/clarissaaudrey/Documents/Literarium/Assets/loginScreenshot.png)
+![loginScreenshot](/Assets/loginScreenshot.png)
 
 
 
 Admin Page (Book and Customer Management)
 
-![bookManagementScreenshot](/Users/clarissaaudrey/Documents/Literarium/Assets/bookManagementScreenshot.png)
+![bookManagementScreenshot](/Assets/bookManagementScreenshot.png)
 
-![customerManagementScreenshot](/Users/clarissaaudrey/Documents/Literarium/Assets/customerManagementScreenshot.png)
+![customerManagementScreenshot](/Assets/customerManagementScreenshot.png)
 
 
 
 Customer Page (Store)
 
-![bookStoreScreenshot](/Users/clarissaaudrey/Documents/Literarium/Assets/bookStoreScreenshot.png)
+![bookStoreScreenshot](/Assets/bookStoreScreenshot.png)
