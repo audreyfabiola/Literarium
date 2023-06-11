@@ -1,0 +1,18 @@
+10010/Dark Matter/10/90/Blake Crouch
+10011/The Song of Achilles/6/100/Madeline Miller
+10012/Gone Girl/7/50/Gillian Flynn
+10013/Fourth Wing/5/99/Rebecca Yarros
+10014/Another Day/6/150/David Levithan
+10016/Room/6/50/Emma Donoghue
+10017/We Were Liars/4/30/E. Lockhart
+10018/Beach Read/7/80/Emily Henry
+10019/Circe/8/100/Madeline Miller
+10020/Fairy Tale/5/120/Stephen King
+10021/Pride and Prejudice/4/120/Jane Austen
+10022/Little Women/10/148/Louisa May Alcott
+10023/Yellowface/11/79/R.F. Kuang
+10024/The Martian/5/180/Andy Weir
+10025/The Firm/8/50/John Grisham
+10026/The Maid/9/96/Nita Prose
+10027/Deception Point/4/61/Dan Brown
+10015/Every Day/4/148/David Levithan
