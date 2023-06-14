@@ -18,8 +18,8 @@ Literarium is a Java Swing-based desktop application designed to simulate a digi
 - 'Login.java': The login class handles the user authentication process, allowing authorized users to access the system.
 - 'BookStore.java': The BookStore.java interface declares methods for retrieving and setting information used in the bookstore.
 - 'BookManagement.java': The BookManagement class implements the BookStore interface and serves as a component responsible for managing books within the system.
-- 'CustomerManagement.java': The CustomerManagement class implements the BookStore interface and serves as a component responsible for managing customer within the system.
-- 'Store.java': The Store class handle the overall functionality of the bookstore for customer.
+- 'CustomerManagement.java': The CustomerManagement class implements the BookStore interface and serves as a component responsible for managing customers within the system.
+- 'Store.java': The Store class handles the overall functionality of the bookstore for customers.
 - 'Admin.java': The Admin class provides administrative functionalities for the bookstore management system, such as customer and book inventory.
 - 'customer.txt': This file contains information about customers in a bookstore. It stores data such as customer IDs, names, passwords, and gender.
 - 'book.txt': This file contains information about books in the bookstore. It stores data such as book IDs, titles, quantities, prices, and authors.
