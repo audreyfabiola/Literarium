@@ -1373,6 +1373,14 @@ public class Admin extends javax.swing.JFrame {
         customerGender.setSelectedItem(model.getValueAt(index, 3).toString());
     }//GEN-LAST:event_customerInventoryTableMouseClicked
 
+    /**
+     * addCustomerToDataBase
+     * This method is used to add a new line of data to the "customer.txt" file to update data.
+     * @param id
+     * @param password
+     * @param name
+     * @param gender 
+     */
     private void addCustomerToDataBase(String id, String password, String name, String gender) {
         try {
             // Append data to existing file
