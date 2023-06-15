@@ -1241,7 +1241,7 @@ public class Admin extends javax.swing.JFrame {
 
     /**
      * updateCustomerActionPerformed
-     * This method is called when the "Update" button on book management is clicked.
+     * This method is called when the "Update" button on customer management is clicked.
      * @param evt 
      */
     private void updateCustomerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_updateCustomerActionPerformed
@@ -1295,6 +1295,11 @@ public class Admin extends javax.swing.JFrame {
         customerGender.setSelectedItem(null);
     }//GEN-LAST:event_updateCustomerActionPerformed
 
+     /**
+     * deleteCustomerActionPerformed
+     * This method is called when the "Delete" button on customer management is clicked.
+     * @param evt 
+     */
     private void deleteCustomerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_deleteCustomerActionPerformed
         // Setting the updated customer details to the CustomerManagement instance
         BookStore[] bookStoreArray = new BookStore[1];
@@ -1327,10 +1332,10 @@ public class Admin extends javax.swing.JFrame {
         customerNameLabel.setText(null);
         customerGender.setSelectedItem(null);
     }//GEN-LAST:event_deleteCustomerActionPerformed
-
+    
     /**
      * clearCustomerActionPerformed
-     * This method is called when the "Clear" button is clicked.
+     * This method is called when the "Clear" button on customer management is clicked.
      * It resets the values of various UI components.
      * @param evt 
      */
