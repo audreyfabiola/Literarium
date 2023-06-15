@@ -726,8 +726,8 @@ public class Store extends javax.swing.JFrame {
 
     
     /**
-     * generatePDFActionPerformed
-     * This method is called when the "Generate PDF" button is clicked.
+     * printBillActionPerformed
+     * This method is called when the "Print" button is clicked.
      * Generates the bill PDF file and prompts the user to select a directory to save it.
      * @param evt 
      */
@@ -762,7 +762,7 @@ public class Store extends javax.swing.JFrame {
     }//GEN-LAST:event_searchKeyReleased
 
     /**
-     * clearPDFActionPerformed
+     * clearBillActionPerformed
      * This method is called when the "Clear" button is clicked.
      * @param evt 
      */
